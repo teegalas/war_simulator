@@ -1,0 +1,8 @@
+'wave1':
+    number_of_warriors: 8
+    defender_power_of_warriers: '5,36,8,29,89,17,22,54'
+    attaker_power_of_warriers: '70,48,16,25,92,63,7,12'
+'wave2':
+    number_of_warriors: 8
+    defender_power: '70,48,16,25,92,63,7,12'
+    attaker_power: '5,36,8,29,89,17,22,54'
